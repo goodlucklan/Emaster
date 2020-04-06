@@ -74,7 +74,7 @@
 		}
 
 	}
-
+/*Color del fondo de la pagina*/
 	body {
 		background: #202024;
 	}
@@ -1187,7 +1187,8 @@
 			color: #fff;
 			font-size: 5em;
 			font-weight: 400;
-			font-family: 'Passion One', cursive;
+			font-family: myfirstfont;
+			src: url('../fonts/ROCK.TTF');
 			margin: 0;
 		}
 
@@ -1361,7 +1362,7 @@
 
 			}
 
-/* Footer */
+/* Footer color del pie de pagina*/
 
 	#footer {
 		padding: 4em 0 2em 0;
